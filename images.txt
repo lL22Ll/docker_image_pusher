@@ -1,6 +1,6 @@
 dzhuang/tinymediamanager:latest-v5
-dohun0310/cups:latest
-#unixorn/cupsd:latest
+#dohun0310/cups:latest
+olbat/cupsd:v2.4.7
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
