@@ -3,6 +3,7 @@ dzhuang/tinymediamanager:latest-v5
 olbat/cupsd:stable-2025-09-15
 vaultwarden/server:latest
 nginx
+mzz2017/v2raya
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
